@@ -1,0 +1,21 @@
+.body-side {
+	height: 100%;
+	width: 280px;
+	background-color: #325d81;
+	position: fixed;
+	bottom: 0;
+}
+.body-main {
+	padding-left: 265px;
+	box-sizing: border-box;
+	height: 100% !important;
+	min-height: 100%;
+	bottom: 0;
+}
+
+.container {
+	margin-left: 0;
+	padding: 0;
+	margin-right: 0;
+	padding: 0;
+}

@@ -1,0 +1,16 @@
+.head {
+	padding-left: 20px;
+	top:0;
+	position: absolute;
+	width: 130%;
+	background-color: #7eaacd;
+}
+
+a{
+	padding-right: 20px;
+	font-size: 18px;
+}
+
+.container {
+	margin-left: 10px;
+}

@@ -1,0 +1,59 @@
+.side-class {
+	background-color: #325d81;
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+}
+
+img{
+
+	height:60px;
+	width:160px;
+	padding-left: 80px;
+}
+
+label {
+	font-weight: 700;
+	font-size: 25px;
+}
+
+td{
+	font-size: 20px;
+}
+
+td:hover{
+	font-weight: 900;
+	font-size: 50;
+	background-color: bisque;
+}
+
+.btn-primary {
+	background-color: transparent;
+	color: black;
+	border:  none;
+}
+
+.btn-primary:hover {
+	background-color: lightskyblue;
+	color: black;
+	border:  none;
+	font-weight: 900;
+
+}
+
+label {
+	padding-left: 30px;
+}
+
+li {
+	list-style-type: circle;
+}
+
+
+button {
+	font-size: 22px;
+	font-family: georgia;
+}
